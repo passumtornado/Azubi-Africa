@@ -18,15 +18,15 @@ when they enter their start date and time of the project
 * the program then displays the hours and wages to the user
 * the records are then save in csv file as backup
 
-##Libraries
--import datetime
--import pandas
--import decimal
--import shutil
+## Libraries
+* import datetime
+* import pandas
+* import decimal
+* import shutil
 
-##Features
--console appilaction
--Python 3 codes
+## Features
+* console appilaction
+* Python 3 codes
 
-##Usage
--preferred ide anaconda/jupyter Notebook
+## Usage
+* preferred ide anaconda/jupyter Notebook
