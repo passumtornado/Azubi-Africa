@@ -3,11 +3,11 @@ this is a program to calculate the wages of a user
 when they enter their start date and time of the project
 
 #Table of Contents
--[Description]-(#description)
--[Libraries]-(#Libraries)
--[Features]-(#features)
--[usage]-(#usage)
--[contributor]-(#contributors)
+-[Description]-(description)
+-[Libraries]-(Libraries)
+-[Features]-(features)
+-[usage]-(usage)
+-[contributor]-(contributors)
 
 ## Description
 * The program is created to accept input from users
@@ -30,3 +30,8 @@ when they enter their start date and time of the project
 
 ## Usage
 * preferred ide anaconda/jupyter Notebook
+
+## Colaborators
+* ABANISENIOLUWA OROJO
+* Abigail Baidoo
+* Abubakar Passum
